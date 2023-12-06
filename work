@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugares Famosos do Mundo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #f1f1f1;
+        }
+
+        section {
+            margin: 20px 0;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #666;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lugares Famosos do Mundo</h1>
+        <p>Explore alguns dos destinos mais icônicos ao redor do globo.</p>
+    </header>
+
+    <section>
+        <h2>A Grande Muralha da China</h2>
+        <img src="muralha_da_china.jpg" alt="Grande Muralha da China">
+        <p>Descubra a majestosa Grande Muralha da China, uma maravilha arquitetônica que se estende por milhares de quilômetros.</p>
+    </section>
+
+    <section>
+        <h2>A Torre Eiffel</h2>
+        <img src="torre_eiffel.jpg" alt="Torre Eiffel">
+        <p>Explore a elegante Torre Eiffel em Paris, uma obra-prima de ferro que oferece vistas deslumbrantes da cidade luz.</p>
+    </section>
+
+    <section>
+        <h2>Machu Picchu</h2>
+        <img src="machu_picchu.jpg" alt="Machu Picchu">
+        <p>Conheça a antiga cidade de Machu Picchu nas montanhas dos Andes, um local arqueológico fascinante e misterioso.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Lugares Famosos do Mundo. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
